@@ -1,5 +1,10 @@
 # KernelPilot-V1-Basic-CUDA-Samples
 
+**Project Homepage:** [KernelPilot](http://www.kernelpilot.com/)
+
+**Demo:** [KernelPilot-V1](http://www.kernelpilot.com/index.php/tool/)
+
+
 ## Generated Code Samples
 
 All optimized `.cu` files are stored in the `generated_code` folder, where the file named `{i}.cu` corresponds to the task with Task ID `i`.
